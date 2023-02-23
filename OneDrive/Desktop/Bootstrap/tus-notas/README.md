@@ -55,7 +55,7 @@ A parte de las funcionalidades Create, Read, Update, Delete, habia creado un apa
 
 ![imagen](https://user-images.githubusercontent.com/91744454/220840786-ce65f197-3111-412f-b2a4-1c294b90e316.png)
 
-La realidad ha sido que me ha sido imposible hacer una función para que me haga un fetch(id), ya que no se por qué funcionaba sólo a la segunda vez de apretar el botón (la primera vez me devolvía un array vacío) y por tanto no podía pasar nada por parámetro. No he podido arreglarlo por falta de tiempo,
+La realidad ha sido que me ha sido imposible hacer una función para que me haga un fetch(id), ya que no se por qué funcionaba sólo a la segunda vez de apretar el botón (la primera vez me devolvía un array vacío) y por tanto no podía pasar nada por parámetro. No he podido arreglarlo por falta de tiempo.
 
 Al poner la pantalla modo móvil, podemos comprobar que es responsiva:  
 
