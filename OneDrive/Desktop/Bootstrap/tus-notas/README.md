@@ -37,10 +37,22 @@ Al darle a actualizar, mediante el método PUT actualiza nuestra base de datos.
 
 ![imagen](https://user-images.githubusercontent.com/91744454/220840362-9dc6f054-801d-4215-bf47-7455c4fff982.png)
 
-Como podemos observar en la pantalla superior derecha, nos aparece un mensaje avisándonos de que la tarea se ha realizado con éxito.   
+Como podemos observar en la pantalla superior derecha, nos aparece un mensaje pop-up avisándonos de que la actualización se ha realizado con éxito. 
+
+Este mensaje (toast) lo he programado mediante mixins.  
+
+(https://user-images.githubusercontent.com/91744454/220842270-7f426742-4ff1-4f8e-a7c3-fda8e1a26278.png)
 
 
-Si en vez de actualizarla queremos eliminarla, solo tenemos que apretar el botón.  
+Luego sencillamente se importa en el componente que necesite lanzar el pop-up:  
+![imagen](https://user-images.githubusercontent.com/91744454/220842863-a6c6edfa-2d5a-42a9-bfa1-5a3ad928801f.png)
+
+
+![imagen](https://user-images.githubusercontent.com/91744454/220842838-a64476e0-a2cf-4be6-8a09-051623a4f055.png)
+
+No tiene mucha más complicación.  
+
+Si en vez de actualizar la nota queremos eliminarla, solo tenemos que darle al botón.
 
 
 ![imagen](https://user-images.githubusercontent.com/91744454/220840584-b10cff4d-4cee-4d43-8848-b009a2162ff3.png)
