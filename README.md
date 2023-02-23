@@ -4,6 +4,16 @@
 
 ![imagen](https://user-images.githubusercontent.com/91744454/220838863-82f29bc5-08c2-4fb4-9730-0382a145ceed.png)  
 
+He escogido un diseño simpático y minimalista para que cualquier persona pueda usarlo sin problemas. He usado un color principal (verde) y variaciones, un color secundario (marrón grisáceo) y variaciones (gris) y para finalizar un color de resalte, el "rojo".
+![imagen](https://user-images.githubusercontent.com/91744454/220844556-7aafa4fd-b75d-4646-ab60-999761af48d8.png)
+
+![imagen](https://user-images.githubusercontent.com/91744454/220844436-da81903b-c26a-4720-bb03-5db610c13a52.png)
+![imagen](https://user-images.githubusercontent.com/91744454/220844468-21391345-d94e-4302-a07d-227d60650672.png)
+![imagen](https://user-images.githubusercontent.com/91744454/220844585-92b46779-df80-4a03-ace2-f139468623a9.png)
+![imagen](https://user-images.githubusercontent.com/91744454/220844607-067b7e73-4402-471f-83df-02f613005c88.png)
+
+La fuente que he utilizado en este proyecto es "Poppins", de google-fonts.
+
 Como podemos observar tiene una barra de navegación principal y una página de inicio donde debería haber un carrousel (no se me renderizaba bien y por falta de tiempo he tenido que quitarlo)  
 
 Tenemos una sección donde se cargarán las notas. Como podemos comprobar aún no tenemos ninguna nota:  
@@ -17,7 +27,6 @@ Para empezar a escribir notas, solo tenemos que iniciar la api que tenemos en el
 ![imagen](https://user-images.githubusercontent.com/91744454/220839727-2571c4d8-ca17-4602-96f9-191f6d569971.png)
 
 Al darle al botón 'crear nota' nos redirige a un formulario donde podemos escribirla.  
-
 ![imagen](https://user-images.githubusercontent.com/91744454/220839884-68e0956f-36f8-4ee9-8d9a-b48894076a9f.png)
 
 Como podemos observar, se ha creado:  
@@ -81,7 +90,6 @@ Creamos una nota desde el móvil y...
 
 
 ![imagen](https://user-images.githubusercontent.com/91744454/220841651-04baab62-f284-425d-ba65-b079d9c438eb.png)
-
 
 
 ## Project setup
