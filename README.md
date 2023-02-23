@@ -6,7 +6,6 @@
 
 He escogido un diseño simpático y minimalista para que cualquier persona pueda usarlo sin problemas. He usado un color principal (verde) y variaciones, un color secundario (marrón grisáceo) y variaciones (gris) y para finalizar un color de resalte, el "rojo".
 ![imagen](https://user-images.githubusercontent.com/91744454/220844556-7aafa4fd-b75d-4646-ab60-999761af48d8.png)
-
 ![imagen](https://user-images.githubusercontent.com/91744454/220844436-da81903b-c26a-4720-bb03-5db610c13a52.png)
 ![imagen](https://user-images.githubusercontent.com/91744454/220844468-21391345-d94e-4302-a07d-227d60650672.png)
 ![imagen](https://user-images.githubusercontent.com/91744454/220844585-92b46779-df80-4a03-ace2-f139468623a9.png)
